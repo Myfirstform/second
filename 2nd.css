@@ -53,6 +53,9 @@ body {
     border-radius: 5px;
     box-sizing: border-box;
 }
+.nose{
+    margin-left:10px
+}
 
 .form .phone p {
     margin-top: 10px;
