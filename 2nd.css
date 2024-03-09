@@ -10,7 +10,7 @@ body {
 .main {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(to top, rgba(255, 204, 0, 0.5) 50%, rgba(0, 153, 255, 0.5) 50%);
+    background: linear-gradient(to top, rgba(0, 153, 255, 0.8), rgba(255, 204, 0, 0.8));
     background-position: center;
     background-size: cover;
     padding: 20px;
@@ -42,14 +42,11 @@ body {
     font-size: 20px;
     color: #333;
 }
-.form form .nos{
-    margin-left:50px
-}
 
 .form input {
     width: 90%;
     max-width: 400px;
-    height: 30px;
+    height: 40px;
     margin: 10px auto;
     padding: 5px;
     border: 1px solid #ccc;
@@ -107,6 +104,6 @@ body {
     }
 
     .form input {
-        height: 25px;
+        height: 35px;
     }
 }
